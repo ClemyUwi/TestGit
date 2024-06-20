@@ -4,4 +4,4 @@ Another line here...
 
 Line added in newBranch
 
-new change in master branch
+new change in master branch+newBranch
